@@ -6,9 +6,9 @@ const DATA = {
   name: "Michael",
   intro: "Para mi persona favorita",
   photos: [
-    "ghibli mood.jpeg",
-    "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1000&q=85",
-    "https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?auto=format&fit=crop&w=1000&q=85"
+    "paris.jpeg",
+    "pepe.jpeg",
+    "ghibli mood.jepeg"
   ],
   letter: `Hoy quiero recordarte lo importante que eres para mí.
 
