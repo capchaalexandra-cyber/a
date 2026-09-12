@@ -180,14 +180,14 @@ h1,h2,h3,p{margin-top:0}
   right:18px;
   bottom:18px;
   width:44px;height:44px;
-  border:1px solid rgba(111,52,53,.25);
+  border:1px solid rgba(223,228,211,.88);
   border-radius:50%;
-  background:rgba(244,223,220,.88);
+  background:rgba(223,228,211,.88);
   color:var(--ink);
   z-index:20;
   cursor:pointer;
 }
 @media (min-width:700px){
-  body{background:#d9c2bf}
+  body{background:#b8c7ad}
   .story{background:var(--bg);box-shadow:0 0 45px rgba(50,25,25,.10)}
 }
