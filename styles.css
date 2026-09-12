@@ -5,7 +5,7 @@
   --ink:#ff002f;
   --soft:#080a9e;
   --accent:#089e23;
-  --line:#089e23;
+  --line:#c7d106;
 }
 html{scroll-behavior:smooth}
 body{
@@ -57,7 +57,7 @@ h1,h2,h3,p{margin-top:0}
   width:190px;
   height:7px;
   border-radius:99px;
-  background:#d8b2ad;
+  background:#00f0e0;
   margin:auto;
   overflow:hidden;
 }
@@ -65,7 +65,7 @@ h1,h2,h3,p{margin-top:0}
   display:block;
   width:0%;
   height:100%;
-  background:#c67b64;
+  background:#f07000;
   border-radius:99px;
   transition:width .08s linear;
 }
@@ -123,8 +123,8 @@ h1,h2,h3,p{margin-top:0}
 .letter{
   margin:15px 20px 55px;
   padding:40px 28px;
-  background:rgba(248,231,227,.75);
-  border:1px solid rgba(158,103,99,.20);
+  background:rgba(229,239,230,.75);
+  border:1px solid rgba(212,222,213,.75);
   text-align:center;
 }
 .letter h3{
@@ -138,7 +138,7 @@ h1,h2,h3,p{margin-top:0}
   white-space:pre-line;
   font-size:19px;
   line-height:1.48;
-  color:#754747;
+  color:#324734;
 }
 .signature{
   display:block;
