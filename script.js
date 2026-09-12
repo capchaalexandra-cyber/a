@@ -6,7 +6,7 @@ const DATA = {
   name: "Michael",
   intro: "Para mi persona favorita",
   photos: [
-    "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1000&q=85",
+    "bebecito.jpeg",
     "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?auto=format&fit=crop&w=1000&q=85",
     "https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?auto=format&fit=crop&w=1000&q=85"
   ],
