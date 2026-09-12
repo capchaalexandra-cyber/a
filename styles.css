@@ -1,11 +1,11 @@
 *{box-sizing:border-box}
 :root{
-  --bg:#ead1cf;
-  --paper:#f4dfdc;
-  --ink:#6f3435;
+  --bg:#7d8f77;
+  --paper:#7d8f77;
+  --ink:#7d8f77;
   --soft:#9a6665;
-  --accent:#b55246;
-  --line:#d5aaa4;
+  --accent:#7d8f77;
+  --line:#7d8f77;
 }
 html{scroll-behavior:smooth}
 body{
