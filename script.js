@@ -4,7 +4,7 @@
 */
 const DATA = {
   name: "Michael",
-  intro: "Para mi persona favorita",
+  intro: "Quiero que recuerdes porque eres mi persona favorita",
   photos: [
     "paris.jpg",
     "cascada.jpg",
