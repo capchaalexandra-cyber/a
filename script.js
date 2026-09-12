@@ -10,13 +10,13 @@ const DATA = {
     "pepe.jpg",
     "ghibli mood.jpeg"
   ],
-  letter: `Hoy quiero recordarte lo importante que eres para mí.
+  letter: `Hoy quiero recordarte lo importante que eres para mí. Gracias por todos los momentos compartidos, por las risas, por las conversaciones y por todas esas pequeñas cosas que hacen que estar contigo sea especial.
 
-Gracias por todos los momentos compartidos, por las risas, por las conversaciones y por todas esas pequeñas cosas que hacen que estar contigo sea especial.
+Sé que este nuevo año puede ser más desafiante, quizá venga acompañado de miedos, dudas o incluso incomprensiones, pero nunca dudes de que te quiero y de que no hay nada que pueda cambiar eso. Creo en ti y sé que eres una persona increíble, con muchísimo que ofrecer y con tantas cosas bonitas por vivir y descubrir.
 
-Ojalá este nuevo año te traiga todo aquello que deseas y muchísimos motivos para sonreír.
+Ojalá este nuevo año te traiga todo aquello que deseas y muchísimos motivos para sonreír. Y, sobre todo, ojalá podamos seguir compartiendo momentos, creando recuerdos juntos y estando presentes el uno para el otro, incluso cuando las cosas no sean tan fáciles.
 
-Y, sobre todo, ojalá podamos seguir creando recuerdos juntos.`
+Feliz cumpleaños. Te quiero.`
 };
 
 const $ = id => document.getElementById(id);
