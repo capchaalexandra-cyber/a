@@ -7,6 +7,8 @@ const DATA = {
   intro: "Para mi persona favorita",
   photos: [
     "paris.jpg",
+    "cascada.jpg",
+    "malaga.jpg",
     "pepe.jpg",
     "ghibli mood.jpeg"
   ],
