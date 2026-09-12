@@ -22,7 +22,7 @@ button{font:inherit}
   text-align:center;
   padding:30px;
   background:
-    radial-gradient(circle at 50% 38%,rgba(255,255,255,.30),transparent 28%),
+    radial-gradient(circle at 50% 38%,rgba(255,255,255,.30),transparent 58%),
     var(--bg);
 }
 .welcome-inner{width:min(86vw,430px)}
