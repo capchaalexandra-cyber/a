@@ -3,7 +3,7 @@
   Cambia nombre, textos y URLs de las fotografías.
 */
 const DATA = {
-  name: "Cris",
+  name: "Michael",
   intro: "Para mi persona favorita",
   photos: [
     "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?auto=format&fit=crop&w=1000&q=85",
